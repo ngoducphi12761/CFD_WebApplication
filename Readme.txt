@@ -1,4 +1,3 @@
 Problem Statement:
-Create a web application for thermal analysis (CFD), supporting the convenience for CFD engineer. 
-Can handle running thermal analysis with OpenSource engine, support OpenGL, VTK, ParaView for result viewing.
-Can handle automation running meshing task on cloud automation.
+Create an e-commercial web application to automate the business processes and communication through online invoicing, 
+reducing billing, client/vendor panels, time tracking, workflows and more.
